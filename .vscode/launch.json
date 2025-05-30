@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/minsa/OneDrive/Documentos/Paradigmas/homework3/Ejercicio 2",
-      "program": "c:/Users/minsa/OneDrive/Documentos/Paradigmas/homework3/Ejercicio 2/build/Debug/outDebug",
+      "cwd": "c:/Users/minsa/OneDrive/Documentos/Paradigmas/Homework-3",
+      "program": "c:/Users/minsa/OneDrive/Documentos/Paradigmas/Homework-3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
